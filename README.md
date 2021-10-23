@@ -11,4 +11,9 @@ Skills: HTML / CSS / Java / MATLAB
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SamuelCoombes&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCoombes&theme=github_dark&layout=compact&card_width=445&langs_count=5&hide=HTML&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCoombes&theme=github_dark&layout=compact&card_width=445&langs_count=5&hide_border=true"/>
+
+
+
+
+
