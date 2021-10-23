@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Sam
+#### I'm a Computer Science Graduate
+![I'm a Computer Science Graduate](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-<!--
-**SamuelCoombes/SamuelCoombes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My GitHub is mostly a collection of programming assignments I have been given at university, and completed.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / Java / MATLAB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently adding projects to github. 
+
+<hr>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SamuelCoombes&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCoombes&theme=github_dark&layout=compact&card_width=445&langs_count=5&hide=HTML&hide_border=true"/>
