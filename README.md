@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Sam
-#### I'm a Computer Science Graduate
+### Hi there 👋, my name is Samuel.
+#### I'm a Computer Science Graduate, and Cyber Security Analyst.
 ![I'm a Computer Science Graduate](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-My GitHub is mostly a collection of programming assignments I have been given at university, and completed.
+My GitHub is mostly a collection of programming assignments I have been given at university, and completed, and a CV that is often private anyway.
 
 Skills: HTML / CSS / Java / MATLAB
 
